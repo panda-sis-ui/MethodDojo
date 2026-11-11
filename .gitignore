@@ -1,0 +1,26 @@
+# зависимости
+node_modules/
+
+# результаты компиляции
+dist/
+build/
+*.js.map
+
+# логи
+*.log
+npm-debug.log*
+
+# переменные окружения
+.env
+.env.local
+
+# системные файлы ОС
+Thumbs.db
+Desktop.ini
+
+# настройки редакторов
+.vscode/
+.idea/
+
+# кэш
+.cache/dist/ 
